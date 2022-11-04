@@ -17,7 +17,7 @@ NEURON {
 	
 	RANGE tau_1,tau_rec,tau_facil,U,T 
 	RANGE diff_flag,M,Rd,Diff,lamd
-	RANGE diffusione,nd	
+	RANGE nd
 }
 
 UNITS {
