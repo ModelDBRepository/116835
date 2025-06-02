@@ -56,6 +56,4 @@ Variable time step (pref DASPK method) works without issues while on Current cla
 * 2022-09-24: Update MOD files to avoid declaring variables and functions with the same name.
   See [https://github.com/neuronsimulator/nrn/pull/1992](https://github.com/neuronsimulator/nrn/pull/1992)
 
----
-
-2025-06-02: Converted README to Markdown.
+* 2025-06-02: Converted README to Markdown.
